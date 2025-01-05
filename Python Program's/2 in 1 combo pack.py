@@ -1,0 +1,2 @@
+x = "SHUTUP"
+print(x)
