@@ -1,6 +1,6 @@
-# Python Projects Collection
+# My Python Projects 2.0
 
-Welcome to the **Python Projects Collection** repository! This repo contains a variety of Python projects ranging from beginner-friendly scripts to more advanced applications. Feel free to explore, learn, and contribute!
+Welcome to the **My Python Projects 2.0** repository! This repo contains a variety of Python projects ranging from beginner-friendly scripts to more advanced applications. Feel free to explore, learn, and contribute!
 
 ## Table of Contents
 
