@@ -85,7 +85,7 @@ If you have any questions, suggestions, or concerns:
 
 - **GitHub Issues**: Open an issue in this repo.  
 - **Email**: [y8tireu2@gmail.com](mailto:y8tireu2@gmail.com)
-- **Website**: [y8tireu.github.io]
+- **Website**: y8tireu.github.io
 
 Happy coding!
 
